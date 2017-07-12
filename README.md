@@ -2,7 +2,7 @@
 
 > Material icon generator
 
-[https://s3.amazonaws.com/icon-generator/index.html](DEMO)
+[DEMO](https://s3.amazonaws.com/icon-generator/index.html)
 
 ## Build Setup
 
