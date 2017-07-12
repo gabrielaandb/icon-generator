@@ -2,6 +2,8 @@
 
 > Material icon generator
 
+[https://s3.amazonaws.com/icon-generator/index.html](DEMO)
+
 ## Build Setup
 
 ``` bash
