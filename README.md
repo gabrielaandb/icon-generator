@@ -17,3 +17,7 @@ npm run dev
 npm run build
 open index.html
 ```
+
+## TODO
+
+- Figure out a way to download icon as png directly from browser.
